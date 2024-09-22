@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 31bd0d27f73794f409a9aaa5b80bd83e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Fruit: {fileID: 7922866693016915592, guid: bded9e4021585004a8689acfbe9dec1b, type: 3}
+  - FruitFirstHalf: {fileID: 2357323546974351499, guid: b865e1ac276600947abbbd03afc2efb9, type: 3}
+  - FruitSecondHalf: {fileID: 4442205684454756766, guid: a3cb753e2ba26b74dbb671c2870e5280, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
